@@ -1,0 +1,37 @@
+{
+  "name": "@project-sst/sst-api",
+  "version": "1.0.2-SNAPSHOT.201909022022",
+  "description": "swagger client for sst-api",
+  "author": "rtjuansebastian",
+  "keywords": [
+    "swagger-client",
+    "sst-api"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "ng-packagr -p ng-package.json"
+  },
+  "peerDependencies": {
+    "@angular/core": "^7.1.4",
+    "@angular/http": "^7.1.4",
+    "@angular/common": "^7.1.4",
+    "@angular/compiler": "^7.1.4",
+    "core-js": "^2.4.0",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "~6.3.3",
+    "zone.js": "^0.7.6"
+  },
+  "devDependencies": {
+    "@angular/common": "^7.1.4",
+    "@angular/compiler": "^7.1.4",
+    "@angular/compiler-cli": "^7.1.4",
+    "@angular/core": "^7.1.4",
+    "@angular/http": "^7.1.4",
+    "@angular/platform-browser": "^7.1.4",
+    "ng-packagr": "5.3.0",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "~6.3.3",
+    "typescript": "3.1.6",
+    "zone.js": "^0.7.6"
+  }
+}
