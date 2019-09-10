@@ -14,7 +14,7 @@
 /**
  * sst.fuenteinformacion
  */
-export interface Fuenteinformacion { 
+export class Fuenteinformacion { 
     idFuenteInformacion: number;
     nombreTipoIndicador?: string;
 }

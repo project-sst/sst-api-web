@@ -14,7 +14,7 @@
 /**
  * sst.asistencia
  */
-export interface Asistencia { 
+export class Asistencia { 
     idAsistencia: number;
     fecha?: string;
     cedula?: number;

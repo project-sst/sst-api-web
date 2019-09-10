@@ -14,7 +14,7 @@
 /**
  * sst.tiporesponsabilidad
  */
-export interface Tiporesponsabilidad { 
+export class Tiporesponsabilidad { 
     idTipo: number;
     nombreResponsabilidad?: string;
 }

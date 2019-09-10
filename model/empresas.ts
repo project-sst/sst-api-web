@@ -14,7 +14,7 @@
 /**
  * sst.empresas
  */
-export interface Empresas { 
+export class Empresas { 
     idEmpresas: number;
     nit?: string;
     razonSocial?: string;

@@ -14,7 +14,7 @@
 /**
  * sst.cargo
  */
-export interface Cargo { 
+export class Cargo { 
     idCargo: number;
     nombreCargo?: string;
     idDepartamentoC?: number;

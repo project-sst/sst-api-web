@@ -14,7 +14,7 @@
 /**
  * sst.tipoindicador
  */
-export interface Tipoindicador { 
+export class Tipoindicador { 
     idTipoIndicador: number;
     nombreTipoIndicador?: string;
 }

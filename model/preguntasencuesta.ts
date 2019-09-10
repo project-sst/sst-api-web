@@ -14,7 +14,7 @@
 /**
  * sst.preguntasencuesta
  */
-export interface Preguntasencuesta { 
+export class Preguntasencuesta { 
     idPregunta: number;
     pregunta?: string;
 }

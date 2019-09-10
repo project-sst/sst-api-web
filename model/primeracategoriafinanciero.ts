@@ -14,7 +14,7 @@
 /**
  * sst.primeracategoriafinanciero
  */
-export interface Primeracategoriafinanciero { 
+export class Primeracategoriafinanciero { 
     idprimeraCategoriaFinanciero: number;
     nombreCategoria?: string;
 }

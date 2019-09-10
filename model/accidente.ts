@@ -14,7 +14,7 @@
 /**
  * sst.accidente
  */
-export interface Accidente { 
+export class Accidente { 
     idAccidente: number;
     descripcionAccidente?: string;
     diasPerdidos?: number;

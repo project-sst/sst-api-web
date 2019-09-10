@@ -14,7 +14,7 @@
 /**
  * sst.sistemaevaluacion
  */
-export interface Sistemaevaluacion { 
+export class Sistemaevaluacion { 
     idSistemaEvaluacion: number;
     descripcionSistema?: string;
 }

@@ -14,7 +14,7 @@
 /**
  * sst.actividad
  */
-export interface Actividad { 
+export class Actividad { 
     idActividad: number;
     nombreActividad?: string;
     idTActividadA?: number;

@@ -14,7 +14,7 @@
 /**
  * sst.asignacioncategoriafinanciera
  */
-export interface Asignacioncategoriafinanciera { 
+export class Asignacioncategoriafinanciera { 
     idasignacionCategoriaFinanciera: number;
     idRecurso?: number;
     idSegundaCategoria?: number;

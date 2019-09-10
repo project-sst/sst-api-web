@@ -14,7 +14,7 @@
 /**
  * sst.consolidadoplan
  */
-export interface Consolidadoplan { 
+export class Consolidadoplan { 
     idconsolidadoPlan: number;
     numeroDocumento?: string;
     elaboradoPor?: number;

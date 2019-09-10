@@ -14,7 +14,7 @@
 /**
  * sst.ausentismo
  */
-export interface Ausentismo { 
+export class Ausentismo { 
     idAusentismo: number;
     fechaAusentismo?: string;
     fechaInicio?: string;

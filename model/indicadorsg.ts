@@ -14,7 +14,7 @@
 /**
  * sst.indicadorsg
  */
-export interface Indicadorsg { 
+export class Indicadorsg { 
     idEstadoPlan: number;
     nombreIndicadorSG?: string;
     definicionIndicador?: string;

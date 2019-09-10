@@ -14,7 +14,7 @@
 /**
  * sst.tipoactividad
  */
-export interface Tipoactividad { 
+export class Tipoactividad { 
     idTActividad: number;
     nombreTActividad?: string;
     meta?: string;

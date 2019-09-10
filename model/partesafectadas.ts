@@ -14,7 +14,7 @@
 /**
  * sst.partesafectadas
  */
-export interface Partesafectadas { 
+export class Partesafectadas { 
     idpartesAfectadas: number;
     idAccidente?: number;
     idParteCuerpo?: number;

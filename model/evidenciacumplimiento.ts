@@ -14,7 +14,7 @@
 /**
  * sst.evidenciacumplimiento
  */
-export interface Evidenciacumplimiento { 
+export class Evidenciacumplimiento { 
     idEvidencia: number;
     nombreEvidencia?: string;
     direccionEvidencia?: string;

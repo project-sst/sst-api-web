@@ -14,7 +14,7 @@
 /**
  * sst.usuario
  */
-export interface Usuario { 
+export class Usuario { 
     cedula: number;
     nombreUsuario?: string;
     correo?: string;

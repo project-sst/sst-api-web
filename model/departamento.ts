@@ -14,7 +14,7 @@
 /**
  * sst.departamento
  */
-export interface Departamento { 
+export class Departamento { 
     idDepartamento: number;
     nombreDepartamento?: string;
 }

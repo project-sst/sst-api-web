@@ -14,7 +14,7 @@
 /**
  * sst.tiporecurso
  */
-export interface Tiporecurso { 
+export class Tiporecurso { 
     idtipoRecurso: number;
     nombreTipoRecurso?: string;
 }

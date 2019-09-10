@@ -14,7 +14,7 @@
 /**
  * sst.consolidadopresupuesto
  */
-export interface Consolidadopresupuesto { 
+export class Consolidadopresupuesto { 
     idconsolidadoPresupuesto: number;
     numeroDocumentoP?: string;
     nombrePresupuesto?: string;

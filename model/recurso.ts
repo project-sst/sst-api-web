@@ -14,7 +14,7 @@
 /**
  * sst.recurso
  */
-export interface Recurso { 
+export class Recurso { 
     idRecurso: number;
     descripcionRecurso?: string;
     presupuestoRecurso?: number;

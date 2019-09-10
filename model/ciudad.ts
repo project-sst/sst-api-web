@@ -14,7 +14,7 @@
 /**
  * sst.ciudad
  */
-export interface Ciudad { 
+export class Ciudad { 
     idCiudad: number;
     nombreCiudad?: string;
 }

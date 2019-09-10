@@ -14,7 +14,7 @@
 /**
  * sst.partecuerpo
  */
-export interface Partecuerpo { 
+export class Partecuerpo { 
     idparteCuerpo: number;
     descripcionParteCuerpo?: string;
 }

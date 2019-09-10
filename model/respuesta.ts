@@ -14,7 +14,7 @@
 /**
  * sst.respuesta
  */
-export interface Respuesta { 
+export class Respuesta { 
     idRespuesta: number;
     respuestaP?: string;
     idPreguntaR?: number;

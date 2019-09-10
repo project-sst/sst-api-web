@@ -14,7 +14,7 @@
 /**
  * sst.responsableplan
  */
-export interface Responsableplan { 
+export class Responsableplan { 
     idResponsablePlan: number;
     idActividadR?: number;
     idTipoR?: number;

@@ -14,7 +14,7 @@
 /**
  * sst.idoneidad_instructor
  */
-export interface IdoneidadInstructor { 
+export class IdoneidadInstructor { 
     idIdoneidadInstructor: number;
     descripcionIdoneidad?: string;
 }

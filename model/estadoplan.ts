@@ -14,7 +14,7 @@
 /**
  * sst.estadoplan
  */
-export interface Estadoplan { 
+export class Estadoplan { 
     idEstadoPlan: number;
     idActividadE?: number;
     fechaE?: string;

@@ -14,7 +14,7 @@
 /**
  * sst.estadorecurso
  */
-export interface Estadorecurso { 
+export class Estadorecurso { 
     idestadoRecurso: number;
     idRecurso?: number;
     fechaER?: string;

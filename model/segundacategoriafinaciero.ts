@@ -14,7 +14,7 @@
 /**
  * sst.segundacategoriafinaciero
  */
-export interface Segundacategoriafinaciero { 
+export class Segundacategoriafinaciero { 
     idsegundaCategoriaFinaciero: number;
     nombreSegundaCategoria?: string;
     idprimeraCategoria?: number;

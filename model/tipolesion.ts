@@ -14,7 +14,7 @@
 /**
  * sst.tipolesion
  */
-export interface Tipolesion { 
+export class Tipolesion { 
     idtipoLesion: number;
     descripcionTipoLesion?: string;
 }

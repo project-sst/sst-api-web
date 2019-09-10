@@ -14,7 +14,7 @@
 /**
  * sst.tipoevento
  */
-export interface Tipoevento { 
+export class Tipoevento { 
     idTipoEvento: number;
     descripcionTipoEvento?: string;
 }

@@ -14,7 +14,7 @@
 /**
  * sst.frecuencia
  */
-export interface Frecuencia { 
+export class Frecuencia { 
     idFrecuencia: number;
     nombreFrecuencia?: string;
 }

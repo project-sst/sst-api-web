@@ -14,7 +14,7 @@
 /**
  * sst.diagnosticoincapacidad
  */
-export interface Diagnosticoincapacidad { 
+export class Diagnosticoincapacidad { 
     iddiagnosticoIncapacidad: number;
     codigo?: string;
     descripcionDiagnostico?: string;

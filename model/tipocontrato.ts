@@ -14,7 +14,7 @@
 /**
  * sst.tipocontrato
  */
-export interface Tipocontrato { 
+export class Tipocontrato { 
     idTipoContrato: number;
     descripcionContrato?: string;
 }

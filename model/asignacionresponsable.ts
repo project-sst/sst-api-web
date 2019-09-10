@@ -14,7 +14,7 @@
 /**
  * sst.asignacionresponsable
  */
-export interface Asignacionresponsable { 
+export class Asignacionresponsable { 
     idAsignacion: number;
     numeroVotos?: number;
     cedulaT?: number;
