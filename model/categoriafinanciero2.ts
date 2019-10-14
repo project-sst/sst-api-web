@@ -12,18 +12,10 @@
 
 
 /**
- * sst.consolidado_presupuesto
+ * sst.categoria_financiero2
  */
-export class Consolidadopresupuesto { 
+export class Categoriafinanciero2 { 
     id: number;
-    numeroDocumento?: string;
     nombre?: string;
-    idElaborado?: number;
-    fechaElaborado?: string;
-    idRevisado?: number;
-    fechaRevisado?: string;
-    idAprobado?: number;
-    firmaAprobado?: string;
-    descripcion?: string;
-    idEmpresa?: number;
+    idCategoriaFinanciero?: number;
 }
