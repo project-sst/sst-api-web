@@ -1,6 +1,6 @@
 {
   "name": "@project-sst/sst-api",
-  "version": "1.0.2-SNAPSHOT.20190910",
+  "version": "1.0.3-SNAPSHOT.20191014",
   "description": "swagger client for sst-api",
   "author": "rtjuansebastian",
   "keywords": [
