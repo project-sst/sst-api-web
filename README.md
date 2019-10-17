@@ -1,4 +1,4 @@
-## sst-api@1.0.4-SNAPSHOT.20191015
+## sst-api@1.0.5-SNAPSHOT.20191016v2
 
 ### Building
 
@@ -19,7 +19,7 @@ Navigate to the folder of your consuming project and run one of next commands.
 _published:_
 
 ```
-npm install sst-api@1.0.4-SNAPSHOT.20191015 --save
+npm install sst-api@1.0.5-SNAPSHOT.20191016v2 --save
 ```
 
 _without publishing (not recommended):_
