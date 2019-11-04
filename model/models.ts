@@ -32,6 +32,7 @@ export * from './sistemaevaluacion';
 export * from './tipoaccidente';
 export * from './tipoactividad';
 export * from './tipocontrato';
+export * from './tipoempresa';
 export * from './tipoevento';
 export * from './tipoindicador';
 export * from './tipolesion';
